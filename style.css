@@ -1,0 +1,23 @@
+img{
+  z-index: 1;
+  width: 992px;
+  height: 1115px;
+  position: relative;
+}
+
+div{
+  z-index: 2;
+  position:absolute;
+  float: left;
+  background-color: white;
+  width: 600px;
+  top: 10px;
+  left: 195px;
+}
+
+p,h1{
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: right;
+  font-weight: bold;
+}
